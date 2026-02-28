@@ -9,5 +9,10 @@
     "password": "Free To Copy",
     "fps": "60 recommended",
     "records": [
+        {
+            "user": "mike_the_duckv2",
+            "link": "https://www.youtube.com/watch?v=iqnDSObYa90", 
+            "percent": "100",
+            "HZ" "60"
     ]
 }
