@@ -13,7 +13,13 @@
             "user": "mike_the_duckv2",
             "link": "https://www.youtube.com/watch?v=iqnDSObYa90", 
             "percent": "100",
-            "HZ" "60"
+            "hz": "60"
         },
+        {
+            "user": "MOTOinfinte",
+            "link": "https://www.youtube.com/watch?v=UMdP7NwncEs",
+            "percent": "100",
+            "hz": "60"
+        }
     ]
 }
