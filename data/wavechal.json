@@ -7,13 +7,19 @@
     "verification": "https://youtu.be/CZnLLY1myu4",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "fps": "60",
+    "fps": "60 recommended",
     "records": [
         {
             "user": "Sparky",
             "link": "https://youtu.be/ONdJT1ma6UE",
             "percent": "100",
             "hz": "60"
+        },
+        {
+            "user": "mike_the_duckv2",
+            "link": "https://youtu.be/I-c2FQrUQgk",
+            "percent": "100",
+            "hz": "120"
         }
     ]
 }
